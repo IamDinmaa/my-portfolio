@@ -153,7 +153,7 @@ function Projects() {
               also find social links and mediums where you can reach out to me.
             </p>
             <div className="flex justify-between lg:w-[50%]">
-              <Link to={"https://dinmaas-portfolio.vercel.app/"}>
+              <Link to="https://dinmaas-portfolio.vercel.app/">
                 <p className="text-[#B0A593]">View live project</p>
               </Link>
             </div>
